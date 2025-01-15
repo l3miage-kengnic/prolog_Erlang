@@ -1,0 +1,59 @@
+Case = Test  0
+input =  o.
+o.
+output = Résultat : o
+
+Case = Test  1
+input =  i.
+i.
+output = Résultat : ii
+
+Case = Test  2
+input =  i.
+ii.
+output = Résultat : iii
+
+Case = Test  3
+input =  ii.
+i.
+output = Résultat : iii
+
+Case = Test  4
+input =  i.
+vi.
+output = Résultat : vii
+
+Case = Test  5
+input =  v.
+iv.
+output = Résultat : ix
+
+Case = Test  6
+input =  vi.
+ix.
+output = Résultat : xv
+
+Case = Test  7
+input =  ii.
+x.
+output = Résultat : xii
+
+Case = Test  8
+input =  xv.
+x.
+output = Résultat : xxv
+
+Case = Test  9
+input =  x.
+x.
+output = Résultat : xx
+
+Case = Test  10
+input =  o.
+v.
+output = Résultat : v
+
+Case = Test  11
+input =  v.
+o.
+output = Résultat : v
