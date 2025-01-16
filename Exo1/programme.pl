@@ -11,7 +11,7 @@
 % % % Côté Tests % % % % % % % % % % % % % % % % %
 %
 %     QuiTeste= CHEIKH Anis
-%     InfoTests= cas de base: Test 0, 10 et 10; cas X+X: Test 1; cas X+Y = Y+X: Test 2 et 3
+%     InfoTests= cas de base: Test 0, 2 et 10; cas X+X: Test 1 et 4; cas X+Y = Y+X: Test 8 et 9
 %
 % % % Travail % % % % % % % % % % % % % % % %
 %

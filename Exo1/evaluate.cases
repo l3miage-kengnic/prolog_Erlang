@@ -10,50 +10,46 @@ output = Résultat : ii
 
 Case = Test  2
 input =  i.
+o.
+output = Résultat : i
+
+Case = Test  3
+input =  i.
 ii.
 output = Résultat : iii
 
-Case = Test  3
-input =  ii.
-i.
-output = Résultat : iii
-
 Case = Test  4
-input =  i.
-vi.
-output = Résultat : vii
+input =  ii.
+ii.
+output = Résultat : iv
 
 Case = Test  5
-input =  v.
-iv.
-output = Résultat : ix
+input =  iv.
+iii.
+output = Résultat : vii
 
 Case = Test  6
-input =  vi.
-ix.
-output = Résultat : xv
-
-Case = Test  7
-input =  ii.
-x.
-output = Résultat : xii
-
-Case = Test  8
-input =  xv.
-x.
+input =  xxiv.
+i.
 output = Résultat : xxv
 
+Case = Test  7
+input =  xxv.
+o.
+output = Résultat : xxv
+
+Case = Test  8
+input =  v.
+ii.
+output = Résultat : vii
+
 Case = Test  9
-input =  x.
-x.
-output = Résultat : xx
+input =  ii.
+v.
+output = Résultat : vii
 
 Case = Test  10
 input =  o.
 v.
 output = Résultat : v
 
-Case = Test  11
-input =  v.
-o.
-output = Résultat : v
